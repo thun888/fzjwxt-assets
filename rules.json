@@ -1,0 +1,903 @@
+{
+  "request": [
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/other_jquery/jquery.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery-migrate.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/jquery-migrate.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery-migrate.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "browse-judge.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/browse/browse-judge.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/browse-judge.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery-ui-custom.contact-1.0.0.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/jquery-ui-custom.contact-1.0.0.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery-ui-custom.contact-1.0.0.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "bootstrap.min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/bootstrap/css/bootstrap.min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/bootstrap.min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "error.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/css/error.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/error.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zftal-ui.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/css/zftal-ui.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/zftal-ui.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "bootstrap.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/bootstrap/js/bootstrap.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/bootstrap.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.utils.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/zftal/jquery.utils.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.utils.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.plugins.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/zftal/jquery.plugins.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.plugins.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.events.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/zftal/jquery.events.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.events.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.extends.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/zftal/jquery.extends.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.extends.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "bootbox.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/bootbox/css/bootbox.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/bootbox.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "bootbox.concat-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/bootbox/bootbox.concat-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/bootbox.concat-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/bootbox/lang/zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.mCustomScrollbar.min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/customscrollbar/css/jquery.mCustomScrollbar.min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/jquery.mCustomScrollbar.min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.mCustomScrollbar.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/customscrollbar/js/jquery.mCustomScrollbar.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.mCustomScrollbar.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "chosen-min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/chosen/css/chosen-min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/chosen-min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.choosen.concat-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/chosen/jquery.choosen.concat-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.choosen.concat-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zh_CN-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/chosen/lang/zh_CN-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zh_CN-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.utils.pinyin.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/utils/jquery.utils.pinyin.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.utils.pinyin.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.zftal.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/jquery.zftal.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.zftal.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.i18n-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/i18n/jquery.i18n-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.i18n-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "i18n-global_zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/i18n-global_zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/i18n-global_zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.zftal_zh_CN-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/zftal/lang/jquery.zftal_zh_CN-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.zftal_zh_CN-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.utils.strength.min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/js/utils/jquery.utils.strength.min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.utils.strength.min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "device.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/xtgl/device.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/device.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jw-index.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/css/jw-index.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/jw-index.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.jqgrid.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/jqGrid/css/jquery.jqgrid.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/jquery.jqgrid.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.jqgrid.src-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/jqGrid/jquery.jqgrid.src-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.jqgrid.src-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.jqgrid.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/jqGrid/jquery.jqgrid.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.jqgrid.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/jqGrid/lang/zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.jqgrid.settings.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/jqGrid4.6/jquery.jqgrid.settings.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.jqgrid.settings.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.jqGrid-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/jqGrid4.6/jquery.jqGrid-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.jqGrid-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.validate-min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/validation/css/jquery.validate-min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/jquery.validate-min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.validate-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/validation/js/jquery.validate-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.validate-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.validate.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/validation/js/jquery.validate.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.validate.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.validate.methods.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/validation/js/jquery.validate.methods.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.validate.methods.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zh_CN-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/validation/lang/zh_CN-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zh_CN-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jsbn.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/crypto/rsa/jsbn.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jsbn.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "prng4.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/crypto/rsa/prng4.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/prng4.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "rng.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/crypto/rsa/rng.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/rng.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "rsa.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/crypto/rsa/rsa.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/rsa.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "base64.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/crypto/rsa/base64.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/base64.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "disk.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/xtgl/disk.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/disk.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "index_v5.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/xtgl/index_v5.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/index_v5.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jwglxt_index.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/xtgl/jwglxt_index.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jwglxt_index.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "font-awesome.min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/fonts/font-awesome-4.2.0_ie7/4.2.0/css/font-awesome.min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/font-awesome.min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "file.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/file/file.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/file.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jwglxt-common_zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/i18n/jwglxt-common_zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jwglxt-common_zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "N253512_zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/globalweb/comp/i18n/N253512_zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/N253512_zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.searchbox-min.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/searchbox/css/jquery.searchbox-min.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/jquery.searchbox-min.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.searchbox.contact-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/searchbox/jquery.searchbox.contact-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.searchbox.contact-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.searchbox.contact-zh_CN.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/searchbox/jquery.searchbox.contact-zh_CN.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.searchbox.contact-zh_CN.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zzxkYzb.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/comp/jwglxt/xkgl/xsxk/zzxkYzb.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zzxkYzb.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery-scrolltofixed-min.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/scrolltofixed/jquery-scrolltofixed-min.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery-scrolltofixed-min.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "tagTree.css",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/tagtree/tagTree.css"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/css/tagTree.css",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "tagtree.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/tagtree/tagtree.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/tagtree.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "tagtreeBusiness.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/plugins/tagtree/tagtreeBusiness.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/tagtreeBusiness.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zzxkYzbZy.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/comp/jwglxt/xkgl/xsxk/zzxkYzbZy.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zzxkYzbZy.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "jquery.dragsort.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/plugins/jquery.dragsort/jquery.dragsort.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/jquery.dragsort.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "zzxkYzbChoosedZy.js",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/jwglxt/js/comp/jwglxt/xkgl/xsxk/zzxkYzbChoosedZy.js"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/js/zzxkYzbChoosedZy.js",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "logo_jw_w.png",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/images/logo/logo_jw_w.png"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/images/logo_jw_w.png",
+      "encoding": "UTF-8"
+    },
+    {
+      "enable": true,
+      "group": "教务系统",
+      "ruleType": "redirect",
+      "isFunction": false,
+      "code": "",
+      "forceRunner": "auto",
+      "name": "user_logo.jpg",
+      "condition": {
+        "urlPrefix": "https://jwxt.gzhu.edu.cn/zftal-ui-v5-1.0.2/assets/images/user_logo.jpg"
+      },
+      "to": "https://fzjwxt-assets.hzchu.top/images/user_logo.jpg",
+      "encoding": "UTF-8"
+    }
+  ],
+  "sendHeader": [],
+  "receiveHeader": [],
+  "receiveBody": []
+}
